@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gson">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../FALL 2021/gson" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../FALL 2021/gson" recursive="false" />
+  </library>
+</component>
